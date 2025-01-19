@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brijesh Chhatrala</h1>
-<h3 align="center">Share bc You said: flutter developer which do designing , developing apps with passion bio for readme git profile ChatGPT said: ChatGPT Here’s a concise and passionate bio you can use for your GitHub README profile: 👋 About Me Hi there! I'm a Flutter Developer who loves crafting beautiful, functional, and innovative apps. I thrive on transforming ideas into digital experiences with a strong focus on: Design: Creating intuitive and visually stunning UIs. Development: Writing clean, efficient, and scalable Dart code. Passion: Building apps that make a difference. 📚 Currently sharpening my skills in Flutter development and exploring new technologies to deliver better user experiences. 🚀 Let’s build something amazing together!</h3>
+<h3 align="center">👋 About Me
+Hi there! I'm a Flutter Developer who loves crafting beautiful, functional, and innovative apps. I thrive on transforming ideas into digital experiences with a strong focus on:
+
+Design: Creating intuitive and visually stunning UIs.
+Development: Writing clean, efficient, and scalable Dart code.
+Passion: Building apps that make a difference.
+📚 Currently sharpening my skills in Flutter development and exploring new technologies to deliver better user experiences.
+
+🚀 Let’s build something amazing together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijeshchhatrala01&label=Profile%20views&color=0e75b6&style=flat" alt="brijeshchhatrala01" /> </p>
 
